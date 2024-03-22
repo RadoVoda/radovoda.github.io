@@ -1,0 +1,71 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Radko Voda
+Rado Voda
+System Designer
+
+Show Contacts
+
+Email
+radovoda@yahoo.com
+
+Location
+United Kingdom
+
+# navbar
+
+About
+Resume
+Portfolio
+Contact
+
+# about
+
+About me
+
+Systems designer, self-taught coder and enthusiastic modder with inquisitive and analytical mindset. I have considerable experience with technical game design, mechanics and systems architecture in general and game balance in particular.
+
+# resume
+
+Experience
+
+2008–2011 Tester and development consultant for Altworx integration system at Salford s.r.o
+2011–2013 Designer of C4I and network centric warfare military software solutions at Salford s.r.o
+2013–2016 System Designer on Arma3 and DayZ at Bohemia Interactive s.r.o
+2016–2018 Senior System Designer on Vigor at Bohemia Interactive s.r.o
+2018–2021 Lead Combat Designer on Hyenas at Creative Assembly UK ltd
+2021 + Senior Technical Designer on Hyenas and Total War at Creative Assembly UK ltd
+
+
+My skills
+
+Game Systems Design
+80%
+Game Balance
+90%
+C#/C++
+70%
+Unreal Engine
+70%
+Unity Engine
+80%
+Git, Perforce, Swarm, SVN, Atlassian
+50%
+
+# portfolio
+
+Portfolio
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
